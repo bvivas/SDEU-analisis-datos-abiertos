@@ -7,10 +7,10 @@ Este proyecto recoge los datos de felicidad (índice y factores influyentes) de 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
-- [Estructura del Proyecto](#project-structure)
-- [Instalación](#install)
-- [Ejecución](#run)
-- [Créditos](#credits)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Instalación](#instalación)
+- [Ejecución](#ejecución)
+- [Créditos](#créditos)
 
 
 ## Estructura del Proyecto
