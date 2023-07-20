@@ -6,8 +6,18 @@ Este proyecto recoge los datos de felicidad (índice y factores influyentes) de 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
+
+- [Estructura del Proyecto](#project-structure)
 - [Instalación](#install)
 - [Ejecución](#run)
+- [Créditos](#credits)
+
+
+## Estructura del Proyecto
+
+- `data`: directorio que contiene el fichero de datos.
+- `analisis_datos_abiertos.ipynb`: Notebook con el código que genera las gráficas y resultados.
+- `sdeu-analisis-datos-abiertos.pdf`: fichero PDF con la presentación del proyecto.
 
 ## Instalación
 
@@ -16,3 +26,7 @@ Será necesario tener una versión de Python `>=3.8` para poder utilizar las lib
 ## Ejecución
 
 Ejecutar el Notebook para ver los resultados de las gráficas.
+
+## Créditos
+
+[Belén Vivas García](https://github.com/bvivas)
